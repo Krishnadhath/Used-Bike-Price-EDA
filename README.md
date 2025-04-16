@@ -55,15 +55,6 @@ The dataset includes details about used bikes such as:
 
 ---
 
-## 📸 Sample Visualizations
-
-![Correlation Heatmap](images/heatmap.png)
-*Price correlation with features*
-
-![Brand vs Price](images/brand_price.png)
-*Average price per brand*
-
----
 
 ## 📊 Sample Prediction
 
