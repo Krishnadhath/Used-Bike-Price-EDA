@@ -68,3 +68,11 @@ Input:
   Transmission: Manual
 
 Predicted Price: ₹52,000
+```
+---
+🌐 Author
+Krishnadhath K J
+
+📧 krishnadhath2255@gmail.com
+
+🌍 LinkedIn: www.linkedin.com/krishnadhath-k-j | GitHub
