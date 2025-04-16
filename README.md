@@ -14,14 +14,12 @@ To analyze used bike listings to understand key factors influencing the price an
 
 The dataset includes details about used bikes such as:
 - **Name** of the bike
-- **Selling Price**
-- **Present Price**
+- **Price**
 - **Kms Driven**
 - **Owner** type
 - **Year** of purchase
-- **Fuel Type**
-- **Seller Type**
-- **Transmission**
+- **Power**
+- **MileagE**
 
 > Source: Provided as part of a learning project. *(You can update this if there's a public source.)*
 
@@ -48,15 +46,11 @@ The dataset includes details about used bikes such as:
    - Visualized data using bar plots, scatter plots, and correlation heatmaps.
    - Identified how features like brand, bike age, and kms driven affect price.
 
-3. **Feature Engineering**
-   - Created new features like `Bike Age`.
-   - Handled categorical features using encoding.
-
-4. **Model Building**
+3. **Model Building**
    - Used **Random Forest Regressor** to predict prices.
    - Evaluated performance using R² score and Mean Absolute Error.
 
-5. **Price Prediction**
+4. **Price Prediction**
    - Built a simple interface to input bike details and predict price.
 
 ---
