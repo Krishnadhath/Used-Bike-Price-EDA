@@ -70,9 +70,28 @@ Input:
 Predicted Price: ₹52,000
 ```
 ---
+---
+
+## 🚀 Future Work
+
+- Deploy the model as a web app (using Streamlit or Flask).
+- Use a larger and more diverse dataset for better generalization.
+- Improve feature selection with hyperparameter tuning.
+- Add user input interface for real-time price prediction.
+
+---
+
+## 💡 Learnings
+
+- Hands-on with a real-world regression use case.
+- Importance of EDA before modeling.
+- Feature engineering improves prediction accuracy.
+- Visual storytelling using data.
+
+
 🌐 Author
 Krishnadhath K J
 
 📧 krishnadhath2255@gmail.com
 
-🌍 LinkedIn: www.linkedin.com/krishnadhath-k-j | GitHub
+🌍 LinkedIn: www.linkedin.com/krishnadhath-k-j | GitHub:https://github.com/Krishnadhath
